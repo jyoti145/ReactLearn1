@@ -1,0 +1,26 @@
+import React from "react";
+import "./Heero.css";
+
+export default function Heero(){
+    return(
+        <section className="Heeroos">
+            <img src="https://s3-alpha-sig.figma.com/img/8ccb/f3c9/60a8e4982dfe1743cb6ea0dfdafde23d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nm~qgXE8Arlnjx6EON8hCvc6SoG1hUOzKwtwYx-ArybD~lEI1nWHY4Xpbr4j7pOapp3SiSraiLImpJKNrfiYxJedVXsqogzaWgSwRHx1losEoQBYoENtrTSbFUlAMk83BkpHwhnTw3DLbVM5VbzLFHTIZypsyLEyQSh5v3AbrUrLU6zYjfP1qmH7Ix-yxnc6LaMx4-d42mBWnd~Zm8buLdTd7hDaYCg0EhajtILV6YBpcEYTbqCgkrDnTyOFQrC8cidV4g0~kNVw8FE~9eevyzy18OO6iyKuMeKJyHP67jUD0fk1X07mn-BgQWQrwbKAQbouVLyRafip-35Uf9ehxQ__" className="img1"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/fd6d/3129/c97d35725e7930a8ae4f3ed9b9fd585d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KqatFt9Z5Tp~S8PDU3IPpM6pPpiQorBMwlRnHf4PwxPFfQijGQRLbVxvvPzq0v-WjXHYkz30hNT3N3zAIWuZSgIUKteSCOctzsvn6~ikMY9gDdX-zYd3UePjhNG55R5inNa-fsZSEmmWZNJFM1B7frNJyDFQcjzdhYZpmEnJ~NQN-hD5xS0GRMdcCJ2IfCayMJ0WUZM2ZkSDUfLsKAlsr2~2zXcc0qUo6hfVVb8GDDiMnYKX3~4ackf~lKUkRsgDdPUSEiBoo4aI2TkduTbpDcce9NEqL~cH2IgcL1dgBOATExWJDfrkQ18hpwcAbGoptMQyzY90b6OOF5WvEtbWwQ__" className="img2"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/4458/577e/42212dc7cb655e39b88188757dbd2d99?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pnKF67LpJ0u9SiU5jzDmpWKJ0NQs~1pdmex5xd8Zls2EowcZ9XptdjIiwRUuP78EIhkOKOvwVhuLKiPr9t1ezHUPVuLjtLVMOI4L8d6qWxpYsu6SGtAcnX-rPdYNzC1RPfR9i7l3nOrQWTP26Pry~nEWQIxnfeza6FYvVb6p-WaUjX01AEXJRC76j3h~DPrZVppjbLtpjymagXQvdjkOoN3~CYHY9m6txJFWvT9-HlT1gDGMDdaeT62Tx9XfvMaUGsIcL87oZtSoMlMgNLkg1tdw3MS2Xf~3L4eHSsvOKSdzog63zBmCKJpNYIT3Qxzj-fblOha4gqmOY7NWEm9t9A__" className="img3"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/0d5f/69b9/ebacbdd87fa7b5eceed6f2f83ffec8bb?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D~z4e0ZW8AspsYc10QP3Mcjm0AjKwSyO8dxapD1rgU52LO36xKPuRLNex51r34CED-VRP4r4zoVtn-BxYBd~~XXcnVVsidnoFlw0ihbnihWDnOEI8DvHMJIqlNA~ivB5CJExMEpeLl5eDLUbGicEeJQGFDQOeP7nwJnlzhSDIR~8ydQE1O89lJ~srNKrUp98kAIOqYKCwrpqRAr3uQnfO-9UbkcYepj1sowHV8o2uWDaMYeM1HhCG6cYgLNSujav426pewdGOBtRy2pDfnOpoiK~trOqPMIekhE03qWXpHSl4PqyeyPMNDQBnhoFCzdM~vvOLhhBLzQMRoIvpcna~w__"className="img4"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/99ea/fac2/f3bf70298482659f376df03d512d6eef?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cDqm7fb9lFi5D6u5ji9NePelhhIxO3mRvVtWN-SjnKUqN6TDUeKtva8nUz6w7WPGDu9vyHVBwbIT-2fL0wDXb2jCk-lKEqQvRPXF~jZAQHxTHU~59qOoSs9PkrIvM7t7c1iQqo0EI9IGFj9uRSOObjThO0hDf7i4LYkFpkjFivl-knn~e15-1yNYRtJC4Hg0sKuJ7jXvffpqRJuErX5lYPwl03T4GHad5YO4TBc5o01HzPU5wiEwTnu9CVKqctcyXEEBr0W06nZoGoWqFIEte6tFMX57uaotH0nxMCW663TaozrMbX1wAwxOeS8CXpI1JlzFUxe1ZgoxAS2M3DKlrw__"className="img5"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/4cd9/d06d/ea0c996adfd1213abea94cb2a32dc96d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jqYE1MlL~KRLyyBqOEGuHobqkrLLDfGPnKaZqETVjc-WqnNdxQQ~7ErbCuP3Jmapz-zmfvidwwCrlwPgrN7INq7pspyG9FyDs6GgZXse~7yDjCcP6vyb2ko2urZeolQCA91wtqIo041IyqP9N8Y4Mh80Sb2di5BypEkoykfPy4lTOVWVnqwj5uw~IsPVwPpjqUsFL28B-BfIGtFnveNK4VPNdFY4WizQW3R24udleuiY1rTkEv5jCLFraBk1wCi4SovPX6AKmCi4hKI8sYguj2QXXOvjTrLLUNScEcIl70Nn6dZszpYPCDoeHBSEoW1WNMhIxQFwPNwUjzYDHWdwJQ__"className="img6"></img>
+        
+            <img src="https://s3-alpha-sig.figma.com/img/1c79/aaf5/8815a2ea90ba58161e656303be1aeba8?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SzaS7rxyvWMeinQTP42BqIQBALSdyqQAjOKRsj~PevxDchni84jL-6HCajxAxF4qQjEiU14PcGtz0KBf1d1AZeMxd8kCnfqMDuaXPcXnJPyvEeGxzNjb6mJNfBSbzHjqFQQaPqOepXwCdEbbJ7~057eM~2KAhOi8PN4EDelZT0aDwvlSXbpbDsk2pICXxEt6YbA-ovc6aYNTg~RcHbQ2j1DUZAIBHJf2BN43rv1S5Gam0y7DLYkwRnl98yofz7b7bgK65HsrgeC1iUtaYh1MRlbTsu80M3wyP0jYu9FRHLvxTj26YK0PuyaRYFRKZ9p9zRDg0OZZJLC~mpAkoqBWfQ__"className="img7"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/8580/b855/8cfb741a025c4caf01bbf3e6eef95b0c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nFCs6wvpkiPXdMM3Sc4RzuHVOPZ~TDWbdj3Wp2iRC6cAwKRgQ~y4ltnPfuJSPyPZh6nH2LyePuvCLJAwWt98ZdVXoZvatCTqFEGAMafZLPzTIKJ9KNtAht3y~hdP00vfobXMy5jGAtPB76J0VxRqbNOPWKRRJvWQNq20HSG0Enge54PYAoa5hLpbsH4T4OEyE1U0YqA4Y1b-njfW1J5ADvwfCP1Y7WGhMDqLUbQBGOQkmYE6ixSUQ4Svi7HO7Rx4kbFtJ7MxtU0QWKSYZkCKWnBTkTVw7x~zLgfl2MFed1i89YKrelUY7ASrHyPnKMiOJ738-aEuFUpZY~pZLQGMlg__"className="img8"></img>
+            <img src="https://s3-alpha-sig.figma.com/img/4413/925f/dd60c368da9e25dc81ed01a676269889?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GpKx53HyKR~dgsTalefAbQli4mHilO3RTZLblITfPehuvUzYIYPqRhn-cQ2hIMe1BTtm9Tz3JVHeycTwr~MZ6cI4R4JK3LBmZ59fU9LdlVrOHX0oAMuGLnDmYRWRYrqnY2kHBhSJsM3duYaH2O-r6MnW7b39-X8vpsG7EcTenHBM9bE8Btbd83Psm91IBWK51Da5zz~MIKoJ7KEZOYhZz5c4ym1qUqzYJUq-Qar9652B6WAvfXUY6Eeb48eKzqLbR6cyS3XynfAKMOeaWS-MVp1IufxdtAwz-yI7l3uoPb6Vab1oynESkFTdPTG7q33G-Y6CxijuFn8qBZVFVXXNQQ__"className="img9"></img>
+            
+
+            <h1 className="Head">Online Experinces</h1>
+            <p className="pra">Join unique interactive activities led by 
+            one-of-a-kind hosts—all without leaving home.Join unique interactive activities led by 
+            one-of-a-kind hosts—all without leaving home</p>
+        </section>
+    )
+
+}

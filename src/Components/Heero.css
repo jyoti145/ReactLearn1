@@ -1,0 +1,159 @@
+.img1{
+    width: 72.31px;
+height: 96.42px;
+top: 144.81px;
+left: 77px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 70px;
+margin-top:40px;
+
+max-width: 100px;
+
+}
+.img2{
+    width: 73.52px;
+height: 63.88px;
+ top: 103.23px; 
+left: 157.75px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+
+
+
+
+ position: absolute;
+
+
+margin-left: 36px ;
+margin-top : -20px;
+max-width: 100px;
+
+
+}
+.img3{
+    width: 72.31px;
+height: 97.02px;
+top: 175.54px;
+left: 157.75px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 170px;
+margin-top: -60px;
+max-width: 100px;
+
+
+
+
+
+}
+.img4{
+    width: 72.91px;
+height: 96.42px;
+top: 126.13px;
+left: 238.5px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 280px;
+margin-top: -150px;
+max-width: 100px;
+
+
+}
+.img5{
+    width: 72.91px;
+height: 96.42px;
+top: 231.58px;
+left: 238.5px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 280px;
+margin-top:5px;
+max-width: 100px;
+
+
+}
+.img6{
+    width: 72.91px;
+height: 97.02px;
+top: 96px;
+left: 319.85px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 390px;
+margin-top:  -220px;
+max-width: 100px;
+
+
+}
+.img7{
+    width: 72.31px;
+height: 96.42px;
+top: 201.45px;
+left: 319.85px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 390px;
+margin-top: 5px;
+max-width: 100px;
+
+
+}
+.img8{
+    width: 72.31px;
+height: 96.42px;
+top: 114.08px;
+left: 400.59px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 500px;
+margin-top: -180px;
+max-width: 100px;
+
+
+}
+.img9{
+    width: 72.31px;
+height: 97.02px;
+top: 218.93px;
+left: 400.59px;
+gap: 0px;
+border-radius: 8.95px 0px 0px 0px;
+opacity: 0px;
+margin-left: 500px;
+margin-top: 5px;
+max-width: 100px;
+
+
+
+}
+.head{
+    margin-bottom: 16px;
+
+}
+.pra{
+    margin-top: 0;
+
+}
+section{
+    padding:20px;
+
+}
+.Heeroos{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+body{
+    margin:0;
+    font-family: 'poppins',sans-serif;
+}

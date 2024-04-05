@@ -1,0 +1,41 @@
+.card{
+    width: 175px;
+    font-size: 12px;
+
+}
+.imgg1{
+    width: 80%;
+    height:130px;
+    
+    border-radius: 5px;
+    margin-left: 20px;
+   
+
+}
+.Cardblock{
+    color:#918E9B;
+  margin-left: 20px; 
+    display: flex;
+    align-items: center;
+}
+.p1{
+    margin-left: 20px;
+   
+
+}
+.p2{
+    margin-left: 20px;
+    margin-top: -7px;
+    font-weight: bold;
+}
+.cards-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+/* .card--image {
+    /* width: 100%; */
+    /* border-radius: 9px;
+    margin-bottom: 9px;
+*/
